@@ -2,7 +2,7 @@
 /**
  * Plugin Name:     Fix Cartão PDF
  * Plugin URI:      https://github.com/edinaldohvieira/fix-cartao-pdf
- * Description:     Cadastro e impressão PDF de carteirinhas do associado
+ * Description:     Cadastro e impressão PDF de carteirinhas do associado.
  * Author:          edinaldohvieira
  * Author URI:      https://github.com/edinaldohvieira/fix-cartao-pdf
  * Text Domain:     fix-cartao-pdf
